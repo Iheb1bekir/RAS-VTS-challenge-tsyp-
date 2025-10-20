@@ -35,3 +35,5 @@ Future phases will extend this prototype with predictive modeling, cloud integra
 ---
 
 ## 📂 Repository Structure
+<img width="1906" height="915" alt="Capture d'écran 2025-10-20 194706" src="https://github.com/user-attachments/assets/9e27c12f-7923-4d96-88ce-0621609d913b" />
+
