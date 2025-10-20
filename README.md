@@ -1,4 +1,4 @@
-# 🧠 Predictive Maintenance AI Agent  
+# 🧠Defensy
 ### IEEE PES & YP Energy Utopia Challenge — Phase 1
 
 ---
