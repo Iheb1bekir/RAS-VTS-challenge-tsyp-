@@ -34,6 +34,13 @@ Future phases will extend this prototype with predictive modeling, cloud integra
 
 ---
 
-## 📂 Repository Structure
+
 <img width="1906" height="915" alt="Capture d'écran 2025-10-20 194706" src="https://github.com/user-attachments/assets/9e27c12f-7923-4d96-88ce-0621609d913b" />
+<img width="1914" height="916" alt="Capture d'écran 2025-10-20 194718" src="https://github.com/user-attachments/assets/bf502e5a-0137-45df-a171-5420f8c602c6" />
+<img width="534" height="836" alt="Capture d'écran 2025-10-20 194727" src="https://github.com/user-attachments/assets/db061345-9524-4c0f-b331-7a128e0de998" />
+<img width="958" height="322" alt="Capture d'écran 2025-10-20 194735" src="https://github.com/user-attachments/assets/81fc47eb-32d9-4d74-95b4-46b896b31f57" />
+<img width="1596" height="854" alt="Capture d'écran 2025-10-20 194743" src="https://github.com/user-attachments/assets/76e43783-60e8-4545-ada5-abc7cdcec1d9" />
+<img width="1613" height="858" alt="Capture d'écran 2025-10-20 194750" src="https://github.com/user-attachments/assets/01b001b5-54f6-470b-baaa-606fe7d6d49b" />
+<img width="295" height="885" alt="Capture d'écran 2025-10-20 194802" src="https://github.com/user-attachments/assets/0ed152bf-ebd5-4b76-8354-ba062468a730" />
+
 
